@@ -9,6 +9,6 @@ docker run -it ebi:latest
 Project will be up and running on port 8080
 
 
-Following is the url for rest endponints
+Following is the url for rest endpoints
 
 http://localhost:8080/ebi/swagger-ui.html
